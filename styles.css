@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    background: #FFDAB9;
+}
+
+h1 {
+    font-family: Tangerine;
+    font-size: 70px;
+    margin: 0.2em;
+    color: #C71585;
+    text-shadow: 4px 4px  #aaa;
+   
+}
+
+h2 {
+    margin: 1em 0 0.25em;
+    color: #8B008B;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+    color: #8B008B;
+}
+
+
+table,tr,td{
+    border: 1px solid black;
+}
+
+table{
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+
+tr {
+    height: 20px;   
+}
+
+td {
+    width: 10px;
+    height: 10px; 
+}
+
+input[type=number] {
+    width: 6em;
+}
